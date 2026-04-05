@@ -52,50 +52,21 @@ As each topic requires 5 reliable sources we have evenly split them between ours
  - Code Reviews: Sarah: (2), Roisin (3)
  - Testing Strategies Sarah (3), Roisin (2)
 
-## Breakdown of the tasks 
-Task: Repository setup
-Description: Create a public GitHUb repository and the intial structure of the project
-Contributor: Sarah 
-Task: README
-Description: Write the handbook overview and the guide for the repository
-Dependants: Repository setup
-Contributor: Sarah 
-Task: Project Plan
-Description: Drafting the project plan and assigning responsibilities
-Dependants: Repository setup
-Contributor: Sarah
-Task: Project Plan review
-Description: Refine and improve the project plan 
-Dependants: Project plan
-Contributor: Roisin
-Task: Task Estimation in Scrum research
-Description: Find and review 5 sources
-Dependants: Project plan 
-Contributors: Sarah, Roisin
-Task: Code reviews research
-Description: Find and review 5 sources
-Dependants: Project Plan
-Contributors: Sarah, Roisin
-Task: Testig Strategy research
-Description: Find and review 5 sources
-Dependants: Project plan
-Contributors: Sarah, Roisin
-Task: Diagrams
-Description: Create diagrams for respective sections
-Dependants: Drafts of research
-Contributors: Sarah, Roisin
-Task: Contributions 
-Description: Recording individual contributions 
-Dependants: Drafts being completed
-Contributors: Sarah, Roisin
-Task: Retrospective
-Description: Reflecting on team process and any lessons learned 
-Dependants: Research being completed
-Contributors: Roisin, Sarah
-Task: Proofreading and formatting
-Description: Proofreading section and finalising formatting
-Dependants: Everything being complete
-Contributors: Sarah, Roisin
+## Task Breakdown
+
+| Task | Description | Depends On | Contributor |
+|---|---|---|---|
+| Repository setup | Create a public GitHub repository and the initial structure of the project | None | Sarah |
+| README | Write the handbook overview and repository guide | Repository setup | Sarah |
+| Project Plan | Draft the project plan and assign responsibilities | Repository setup | Sarah |
+| Project Plan review | Refine and improve the project plan | Project Plan | Roisin |
+| Task Estimation in Scrum research | Find and review 5 sources | Project Plan | Sarah, Roisin |
+| Code Reviews research | Find and review 5 sources | Project Plan | Sarah, Roisin |
+| Testing Strategy research | Find and review 5 sources | Project Plan | Sarah, Roisin |
+| Diagrams | Create diagrams for the handbook sections | Research drafts | Sarah, Roisin |
+| Contributions | Record individual contributions | Drafts near completion | Sarah, Roisin |
+| Retrospective | Reflect on the team process and lessons learned | Research and drafting complete | Roisin, Sarah |
+| Proofreading and formatting | Proofread sections and finalise formatting | Everything complete | Sarah, Roisin |
 
 ## Order of work
 1. Create repo
