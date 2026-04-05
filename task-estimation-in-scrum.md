@@ -116,3 +116,14 @@ Before agreeing on a task estimate, the team should ask:
 - Is the estimate based on shared understanding?
 - Does the estimate reflect complexity and uncertainty, not just ideal time?
 
+## Estimation workflow
+
+```mermaid
+flowchart LR
+    A[Task added] --> B[Clarify requirements]
+    B --> C[Discuss as a team]
+    C --> D[Estimate]
+    D --> E[Split if too large]
+    E --> F[Plan sprint]
+
+
