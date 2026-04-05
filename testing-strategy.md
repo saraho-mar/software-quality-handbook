@@ -28,6 +28,7 @@ Title: Architecture strategies for testing
 Link: https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/testing
 
 Key points:
+
  - Testing strategies need to be formalised ans aligned with business objectives rather than just having the same generic approach to all workloads.
  - Teams should start testing early and be continuous instead of leaving it to the end.
  - Layered approach is recommendedby using unit tests, integration tests and end to ed testing in a balanced way.
