@@ -116,3 +116,12 @@ Before releasing or merging important work, the team should ask:
 - Does the change affect existing functionality that should be regression tested?
 - Are test results clear and recorded?
 - Has the right type of testing been chosen for the change?
+
+## Testing Strategy Diagram
+```mermaid
+flowchart TB
+    A[Unit Testing<br/>Tests individual methods or functions]
+    B[Integration Testing<br/>Tests whether components work together]
+    C[Validation / Acceptance Testing<br/>Checks whether the software meets user or business requirements]
+    D[System Testing<br/>Tests the full system including performance, security, and reliability]
+```
