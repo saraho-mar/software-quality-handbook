@@ -129,18 +129,31 @@ Solution: Using multiple branches and pull requests
 
 
 ## Retrospective 
+What went well:
+- Communication between both team members was strong throughout the project.
+  We stayed in contact, shared updates, and clarified responsibilities when needed, which helped the work move forward.
+  
+- The task split worked well because each person had clear sections to focus on.
+  This made it easier to manage the workload and make steady progress on the handbook.
+  
+- Reviewing each other’s work helped improve quality. Pull request comments and feedback made the content clearer, more consistent, and better aligned with the     assignment brief.
 
+What didn't go well:
+- One of the main difficulties was using GitHub. Branching, pull requests, permissions, and merging were not always straightforward,
+  which caused confusion and slowed progress.
+  
+- Some parts of the work were drafted outside the repository first, which made it harder to keep everything in one place from the beginning.
+  
+- Planning was good overall, but some details could have been agreed earlier, such as exact formatting, how sources would be divided,
+  and how work would be added to the repo.
 
+Future chnages:
+- For a similar project in future, we would make sure both team members had a better understanding of GitHub before starting,
+  especially branches, pull requests, and merging.
+  
+- We would plan the structure and workflow in more detail at the start, including formatting rules, file structure,
+  and how contributions would be added and reviewed.
+  
+- We would try to add work into the repository earlier and more often, instead of leaving some parts outside it first,
+  so everything stays organised and easier to review.
 
-
-## What went well
-
-
-
-
-
-## What didn't go well
-
-
-
-## Future chnages
