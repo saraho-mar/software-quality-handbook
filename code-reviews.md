@@ -103,3 +103,14 @@ Reviewers should:
 - Reviews should focus on quality, clarity, and maintainability
 - Feedback should stay professional and constructive
 
+## Code Review Process Diagram
+```mermaid
+flowchart TD
+    A[Developer creates feature branch] --> B[Developer makes changes]
+    B --> C[Pull request is opened]
+    C --> D[Reviewer reads PR description and code]
+    D --> E[Reviewer leaves feedback]
+    E --> F[Developer updates changes if needed]
+    F --> G[Reviewer approves pull request]
+    G --> H[Changes are merged to main]
+```
